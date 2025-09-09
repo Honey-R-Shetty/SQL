@@ -132,6 +132,7 @@ A comprehensive library management database to handle books, authors, members, l
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Honey-R-Shetty/SQL.git
+   
 ````
 
 2. **Open PostgreSQL** and create the respective databases.
@@ -144,7 +145,7 @@ A comprehensive library management database to handle books, authors, members, l
 
 4. Explore and modify queries to practice advanced concepts.
 
----
+````
 
 ## 📂 Technologies Used
 
@@ -153,7 +154,7 @@ A comprehensive library management database to handle books, authors, members, l
 * ER Diagrams and Schema Design
 * Data Modeling for real-world scenarios
 
----
+````
 
 ## ✍ Author
 
